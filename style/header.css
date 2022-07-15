@@ -1,0 +1,42 @@
+/* navbar background */
+.navbar-default {
+    background-color: hsl(242, 100%, 30%);
+}
+
+/* navbar links */
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand {
+    color: hsl(0, 0%, 90%);
+    background-color: transparent;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: hsl(0, 0%, 83%);
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: hsl(0, 0%, 90%);
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: hsl(0, 0%, 70%);
+}
+
+/*toggle button*/
+.navbar-toggle {
+    background-color: #ddd;
+}
+
+/* search button */
+.btn-info {
+    color: hsl(0, 0%, 90%);
+    background-color: hsl(0, 100%, 0%);
+    border-color: hsl(0, 100%, 0%);
+}
+
+.btn-info:hover {
+    color: hsl(0, 0%, 90%);
+    background-color: hsl(0, 15%, 0%);
+    border-color: hsl(0, 15%, 0%);
+}
+
